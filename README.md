@@ -1,49 +1,59 @@
 ## Materials for Two-Semester Introduction to Data Science Course at High School Level
 
+### This document serves as the course **Syllabus**
+
+### Prerequisites
+- an algebra course that introduces:
+  - functions
+  - linear regression (this is preferred but not required)
+
 ### Assumed Class Meeting Time
 - classes meet for 40 minutes twice a week
+
+### One Semester Course Format
+- A one-semester course can use the Semester 1 material and provide an excellent introduction to data science
 
 ---
 
 ## Course Features
 
-**Note: Codes such as [DS.3] denote Virginia Public School State Standards for Data Science**
 
-
-- **Collaborate with Real-World Datasets [DS.2], [DS.5]†, [DS.8]†, [DS.11], [DS.13]†**   
+- **Collaborate with Real-World Datasets**   
 
   Students collaborate in teams over the full term to solve a problem using data science.  
   They are encouraged to select a dataset from their community Open Data project.
 
-- **Build Data Literacy and Skills**  **[DS.3]†**  
+- **Build Data Literacy and Skills**  
 
   - proper data use and interpretation
   - data types
   - data structure
   - data velocity
-  - data representativeness, bias, and ethics **[DS.4]**
+  - data representativeness, bias, and ethics  
 
 - **Learn and Apply the Stages of the Data Pipeline.  Implement Them in Team Projects.**  
 
-  - discuss examples of societal problems that can be addressed with data science **[DS.1]†**  
+  - discuss examples of societal problems that can be addressed with data science
 
-  - data loading and ingestion **[DS.7]**
+  - data loading and ingestion
 
   - data preprocessing
 
-  - transforming data and building predictors by applying functions
+  - transform data and build predictors by applying functions
 
-  - understanding the data: visualization, summarization **[DS.10]†**  
-    justify the design, use, and effectiveness of different forms of data visualizations and summarizations **[DS.6]**  
-    building interactive dashboards
+  - understand the data: visualization, summarization  
+    justify the design, use, and effectiveness of different forms of data visualizations and summarizations  
+    build interactive dashboards
 
-  - building and evaluating linear regression models  **[DS.9]†**  
-    thinking critically about predictors: they should be intuitive and avoid bias
+  - build and evaluate linear regression models  
+    think critically about predictors: they should be intuitive and avoid bias
 
-  - communicating data science with stakeholders: telling a compelling, clear, accurate story **[DS.5]†**  
+  - communicate data science with stakeholders: tell a compelling, clear, accurate story  
 
-- **Use Technology to Implement Data Science [DS.12]†**  
+- **Use Technology to Implement Data Science**    
   Python Jupyter notebooks contain rich text, images, and code examples for interactive learning
+
+- Meets the Virginia Public School State Standards for Data Science
 
 ---
 
@@ -80,7 +90,46 @@ Total Weeks: 19
 
 ---
 
-## Data Science Standards in Virginia Public Schools
+### Recommended Grading Breakdown
+
+**NOTE**: This can be used each semester  
+
+| Component   | Weight | Description |
+| ----------- | :-----------: | :----------- |
+| HOMEWORK      | 35%       | Roughly 6 assignments. Instructors may wish to provide in-class time for students to work on these assignments. |
+| QUIZZES      | 20%       | 2 multiple choice quizzes consisting of high-level questions. Can be given in class, once at semester midpoint and once at semester end.|
+| PROJECT      | 40%       | End-to-end data science team project with deliverables throughout semester. |
+| JOURNALING      | 5%       | Weekly journal entries responding to questions. Submitted every three weeks over the semester. |
+
+
+### Delivery
+
+- First class in week can generally be code demos, lecture content, and discussion
+- Second class in week can be practice, workshop, work on team projects
+- Nearly all course content is in Jupyter Notebooks
+- For testing out Python script development, Spyder is one option. This is not required.
+
+### Project
+
+- Students encouraged to select a project from local community open data source  
+- Students work in teams of 2-3
+- Small checkpoint exercises with binary scoring (full credit for submitting, else no credit).  
+  Aligns with course content.
+- Runs for full duration of course
+- Final project deliverables consist of:  
+  - giving presentation to class 
+  - discussion of team project 
+  - submitting all cleaned, commented code
+  
+### BEFORE THE COURSE BEGINS
+  
+- Since some classrooms might not have fast internet connectivity, it is recommended that students are asked to Download and Install [Anaconda](https://www.anaconda.com/products/individual) before the course begins
+
+- For keeping files organized, it is recommended that students create a course folder on their computer. The `datasets` folder can be saved within this folder.
+
+---
+
+## APPENDIX I: Data Science Standards in Virginia Public Schools
 
 **DATA AND SOCIETY**  
 - [DS.1]†  The student will identify specific examples of societal problems that can be effectively addressed using data science.
@@ -113,38 +162,3 @@ Total Weeks: 19
 - [DS.13]†  The student will be able to select and utilize appropriate technological tools and functions within those tools to analyze and communicate data effectively.
 
 ---
-
-### Assessments
-
-| Component   | Weight | Description |
-| ----------- | :-----------: | :----------- |
-| HOMEWORK      | 35%       | 6 take-home assignments |
-| QUIZZES      | 20%       | 2 multiple choice quizzes consisting of high-level questions. |
-| PROJECT      | 40%       | End-to-end data science team project with deliverables throughout semester. |
-| JOURNALING      | 5%       | Write weekly journal entries responding to questions. Submitted every three weeks over the semester. |
-
-
-### Delivery
-
-- First class in week can generally be code demos, lecture content, and discussion
-- Second class in week can be practice, workshop, work on team projects
-- Nearly all course content is in Jupyter Notebooks
-- For testing out Python script development, Spyder is one option
-
-### Project
-
-- Students encouraged to select a project from local community open data source  
-- Students work in teams of 2-3
-- Small checkpoint exercises with binary scoring (full credit for submitting, else no credit).  
-  Aligns with course content.
-- Runs for full duration of course
-- Final project deliverables consist of:  
-  - giving presentation to class 
-  - discussion of team project 
-  - submitting all cleaned, commented code
-  
-### BEFORE THE COURSE BEGINS
-  
-- Since some classrooms might not have fast internet connectivity, it is recommended that students are asked to Download and Install [Anaconda](https://www.anaconda.com/products/individual) before the course begins
-
-- For keeping files organized, it is recommended that students create a course folder on their computer. The `datasets` folder can be saved within this folder.
