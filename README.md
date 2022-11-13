@@ -61,7 +61,7 @@ Data science is one of the most in-demand roles globally, and supply of data sci
 - **Use Technology to Implement Data Science**    
   Python Jupyter notebooks contain rich text, images, and code examples for interactive learning
 
-- Meets the Virginia Public School State Standards for Data Science
+- **Meets the Virginia Public School State Standards for Data Science**
 
 ---
 
