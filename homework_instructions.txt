@@ -1,0 +1,14 @@
+Instructions for Completing and Submitting Homework
+
+For full credit on homework assignments:
+- Answer the questions comprehensively using text, code, and the results of code as needed.
+- Format your answers in the provided Jupyter notebooks 
+- Make sure all answers are visible
+- Address every part of the problem
+- Make sure your document is formatted in a clean and professional way
+
+Advice:
+Google is your friend if you are stuck on how to do something. 
+You can search on keywords 'python' and relevant terms such as 'python dictionary'.  
+Python provides good online documentation.
+Stack Overflow is another helpful source.
