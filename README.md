@@ -21,8 +21,6 @@ Data science is one of the most in-demand roles globally, and supply of data sci
 ### One Semester Course Format
 - A one-semester course can use the Semester 1 material and provide an excellent introduction to data science
 
----
-
 ## Course Features
 
 
@@ -63,8 +61,6 @@ Data science is one of the most in-demand roles globally, and supply of data sci
 
 - **Meets the Virginia Public School State Standards for Data Science**
 
----
-
 ## Semester 1
 
 ### Approximate Timeline
@@ -78,8 +74,6 @@ Total Weeks: 15
 6) understanding the data: visualization, summarization (2 weeks)  
 7) building and evaluating linear regression models (2-3 weeks)  
 8) project presentations and discussion (1 week)  
-
----
 
 ## Semester 2
 
@@ -95,8 +89,6 @@ Total Weeks: 19
 7) real-world application of data science: fair lending (2 weeks)  
 8) focused work on team project (2 weeks)   
 9) project presentations and discussion (1 week)  
-
----
 
 ### Recommended Grading Breakdown
 
@@ -134,8 +126,6 @@ Total Weeks: 19
 - Since some classrooms might not have fast internet connectivity, it is recommended that students are asked to Download and Install [Anaconda](https://www.anaconda.com/products/individual) before the course begins
 
 - For keeping files organized, it is recommended that students create a course folder on their computer. The `datasets` folder can be saved within this folder.
-
----
 
 ## APPENDIX I: Data Science Standards in Virginia Public Schools
 
