@@ -129,7 +129,7 @@ Total Weeks: 19
   - discussion of team project 
   - submitting all cleaned, commented code
   
-### BEFORE THE COURSE BEGINS
+### Before the Course Begins
   
 - Since some classrooms might not have fast internet connectivity, it is recommended that students are asked to Download and Install [Anaconda](https://www.anaconda.com/products/individual) before the course begins
 
