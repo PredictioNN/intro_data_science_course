@@ -1,6 +1,15 @@
 ## Materials for Two-Semester Introduction to Data Science Course at High School Level
 
-### This document serves as the course **Syllabus**
+### This document serves as the course Syllabus
+
+### Description 
+
+Data science is an applied science that solves problems using mathematics, statistics, computing, data, and domain expertise.  
+The steps are organized and implemented with a pipeline. In this course, students will work in teams to solve a data science problem, learning and using essential skills along the way: coding, data preprocessing, summarization, visualization, modeling, troubleshooting and communication. At the end of the course, students will be responsible for deliverables, including a presentation. 
+
+### Demand for Data Science
+
+Data science is one of the most in-demand roles globally, and supply of data scientists cannot keep up with demand. Training and curiosity are required to make discoveries in this essential role. One of the goals of this course is to provide this training and develop this curiosity.
 
 ### Prerequisites
 - an algebra course that introduces:
