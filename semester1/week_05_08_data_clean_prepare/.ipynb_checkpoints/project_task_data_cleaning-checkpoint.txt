@@ -1,0 +1,17 @@
+Introduction to Data Science 
+Team Project Task: Data Cleaning
+
+Directions: 
+
+In this project task, you will write a short summary of how you might clean the data
+
+1. Indicate which columns need cleaning and why
+
+2. Explain how you would you clean these columns
+
+Submission Instructions:
+At the top of your report, include the Team Project Task (see above), and the names of each team member.  
+File format can be one of: word doc, pdf, text file or Jupyter notebook (ipynb).
+   
+Completing this assignment is worth 1 point.
+
