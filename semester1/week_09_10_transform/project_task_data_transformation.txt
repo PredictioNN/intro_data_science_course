@@ -1,0 +1,19 @@
+Introduction to Data Science 
+Team Project Task: Data Transformation
+
+Directions: 
+
+In this project task, you will think about the columns of your data and how you might transform them to be more useful.
+Use what you learned about standardization, one hot encoding, binarization, and mathematical and statistical functions to
+identify useful transformations.
+
+Then transform some columns and explain:
+1. Why you selected the columns and transformations
+2. Show the first five rows of the original dataset 
+3. Show the first five rows of the resulting dataset 
+
+Submission Instructions:
+At the top of your report, include the Team Project Task (see above), and the names of each team member.  
+File format can be one of: word doc, pdf, text file or Jupyter notebook (ipynb).
+
+Completing this assignment is worth 1 point.
