@@ -24,7 +24,8 @@
 - Quick review of week 2 / finish up  
 
 - Discuss notebook: `variables_and_expressions` 
-- Discuss notebook: `deeper_on_data`
+- Discuss notebook: `deeper_on_data`  
+
 For each of these notebooks, there are small exercises for students to work on.
 It's recommended to briefly introduce some of these ideas, such as working with dictionaries, and then have students work on the exercises.
 This will keep things engaging.
