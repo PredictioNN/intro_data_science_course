@@ -1,0 +1,34 @@
+Introduction to Data Science 
+Team Project Task: Data Visualization and Summarization
+
+Directions: 
+
+In this project task, you will do two things: 
+
+1) Visualize your data
+
+a. Create two or more plots that are useful in better understanding the data
+   Make sure they 
+   - are the best plot for the job
+   - are clear
+   - include labels and title
+   - exclude extraneous information
+
+b. Explain your observations from the plots
+   - if there are possible sources of bias, provide an explanation
+
+2) Compute statistics to summarize your data
+
+Depending on the data, it could make sense to compute counts or means, for example.
+
+Show the summary statistics and explain:
+1. What you decided to summarize
+2. How you summarized it
+3. What are the statistics telling you
+4. Are there any sources of bias in your statistics?
+
+Submission Instructions:
+At the top of your report, include the Team Project Task (see above), and the names of each team member.  
+File format can be one of: word doc, pdf, text file or Jupyter notebook (ipynb).
+
+Completing this assignment is worth 1 point.

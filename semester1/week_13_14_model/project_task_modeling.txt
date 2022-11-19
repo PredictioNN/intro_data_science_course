@@ -1,0 +1,20 @@
+Introduction to Data Science 
+Team Project Task: Modeling
+
+Directions: 
+
+In this project task, you will build a linear regression model using one or more predictors
+
+1. Write 1-2 sentences explaining your choice of predictor and response variables
+2. Split the data into train and test sets
+3. Scale the training data
+4. Fit the model on the training data
+5. Scale test set predictors and pass them into the model, predicting test set targets
+6. Compute R-squared
+7. Does this model fit well? Explain your answer.
+
+Submission Instructions:
+At the top of your report, include the Team Project Task (see above), and the names of each team member.  
+File format can be one of: word doc, pdf, text file or Jupyter notebook (ipynb).
+
+Completing this assignment is worth 1 point.
