@@ -1,0 +1,101 @@
+id,fico,loan_to_value,gender,occupation,denied,loan_term,rate_type
+0,696,62,m,salesman,0,30,fixed
+1,752,61,m,salesman,0,30,fixed
+2,726,63,m,salesman,0,30,fixed
+3,759,60,m,salesman,0,30,fixed
+4,798,62,m,salesman,0,15,fixed
+5,618,81,m,teacher,1,30,fixed
+6,758,66,m,teacher,0,30,fixed
+7,676,64,m,teacher,0,30,fixed
+8,717,67,m,teacher,0,30,fixed
+9,647,83,m,teacher,1,30,fixed
+10,620,75,m,teacher,1,30,fixed
+11,603,78,m,retired,1,30,fixed
+12,810,67,m,doctor,0,30,fixed
+13,623,77,m,mason,1,30,fixed
+14,660,79,m,dentist,1,30,fixed
+15,661,84,m,student,1,30,fixed
+16,614,82,m,plumber,1,30,fixed
+17,733,64,m,doctor,0,30,fixed
+18,773,61,m,doctor,0,30,fixed
+19,723,61,m,doctor,0,30,fixed
+20,672,81,m,student,1,30,fixed
+21,625,84,m,student,1,30,fixed
+22,788,69,m,student,0,30,fixed
+23,772,65,m,student,0,15,fixed
+24,774,62,m,student,0,15,fixed
+25,680,60,m,lawyer,0,30,fixed
+26,652,77,m,lawyer,1,30,fixed
+27,768,65,m,investment banker,0,30,fixed
+28,657,76,m,lawyer,1,30,fixed
+29,744,61,m,quantitative researcher,0,30,fixed
+30,672,79,m,lawyer,1,30,fixed
+31,691,66,m,stockbroker,0,30,fixed
+32,742,61,m,lawyer,0,30,fixed
+33,820,63,m,data scientist,0,15,fixed
+34,751,62,m,data scientist,0,30,fixed
+35,714,66,m,data scientist,0,30,fixed
+36,768,69,m,accountant,0,30,fixed
+37,617,76,m,accountant,1,30,fixed
+38,798,62,m,accountant,0,30,fixed
+39,714,64,m,accountant,0,30,fixed
+40,626,79,m,accountant,1,30,fixed
+41,765,66,m,accountant,0,30,fixed
+42,647,76,m,accountant,1,30,fixed
+43,790,63,m,fireman,0,30,fixed
+44,703,70,m,fireman,0,30,fixed
+45,630,80,m,contractor,1,30,fixed
+46,745,67,m,contractor,0,30,fixed
+47,643,75,m,contractor,1,30,fixed
+48,734,69,m,contractor,0,30,fixed
+49,611,79,m,electrician,1,30,fixed
+50,717,61,m,electrician,0,30,fixed
+51,700,66,m,plumber,0,30,fixed
+52,697,68,m,plumber,0,30,fixed
+53,767,62,m,mechanic,0,30,fixed
+54,767,65,m,mechanic,0,30,fixed
+55,626,80,m,software developer,1,30,fixed
+56,687,65,m,software developer,0,30,fixed
+57,613,78,m,software developer,1,30,fixed
+58,799,68,m,librarian,0,30,fixed
+59,783,66,m,electrician,0,30,fixed
+60,621,79,f,contractor,1,30,fixed
+61,743,65,f,fireman,0,30,fixed
+62,636,77,f,accountant,1,30,fixed
+63,757,66,f,accountant,0,30,fixed
+64,666,78,f,accountant,1,30,fixed
+65,611,76,f,accountant,1,30,fixed
+66,745,65,f,accountant,0,30,fixed
+67,759,61,f,data scientist,0,30,fixed
+68,701,61,f,lawyer,0,30,fixed
+69,680,69,f,lawyer,0,30,fixed
+70,706,62,f,lawyer,0,30,fixed
+71,614,80,f,lawyer,1,30,fixed
+72,734,61,f,lawyer,0,30,fixed
+73,721,60,f,lawyer,0,30,fixed
+74,761,63,f,lawyer,0,30,fixed
+75,720,68,f,student,0,30,fixed
+76,610,81,f,student,1,30,fixed
+77,739,61,f,student,0,30,fixed
+78,739,62,f,student,0,30,fixed
+79,790,64,f,student,0,30,fixed
+80,722,67,f,doctor,0,30,fixed
+81,683,60,f,nurse,1,30,fixed
+82,635,81,f,nurse,1,30,fixed
+83,662,83,f,nurse,1,30,fixed
+84,648,76,f,nurse,1,30,fixed
+85,677,62,f,nurse,1,30,fixed
+86,745,66,f,nurse,0,30,fixed
+87,707,66,f,nurse,0,30,fixed
+88,647,84,f,nurse,1,30,fixed
+89,738,61,f,nurse,0,30,fixed
+90,648,82,f,nurse,1,30,fixed
+91,681,60,f,teacher,1,30,fixed
+92,721,66,f,teacher,0,30,fixed
+93,751,63,f,teacher,0,30,fixed
+94,615,81,f,teacher,1,30,fixed
+95,699,64,f,teacher,1,30,fixed
+96,805,65,f,salesman,0,30,fixed
+97,620,81,f,salesman,1,30,fixed
+98,618,82,f,salesman,1,30,fixed
+99,649,79,f,salesman,1,30,fixed

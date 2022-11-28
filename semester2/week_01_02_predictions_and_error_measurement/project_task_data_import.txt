@@ -1,0 +1,26 @@
+Introduction to Data Science 
+Team Project Task: Data Import
+
+Directions: 
+
+In this project task, you will start by identifying a dataset of interest.  
+One potential source: Charlottesville Open Data website.  
+The URL is: https://opendata.charlottesville.org/  
+
+New for this semester: Try to do a project involving the prediction of a binary event: either an event happens or not.  
+(It is not a strict requirement, but an ideal.)  
+Examples include: a borrower gets a loan, a patient recovers, a team wins.
+
+1) Visit the website and review the material, including the discussion on Open Data
+
+2) Explore the different datasets to find a project of interest to your team
+
+3) For your selected dataset, read in the data and show the first 10 rows
+
+4) In one or two sentences, explain what this dataset represents and why you find it interesting
+
+Submission Instructions:
+At the top of your report, include the Team Project Task (see above), and the names of each team member.  
+File format can be one of: word doc, pdf, text file or Jupyter notebook (ipynb).
+
+Completing this assignment is worth 1 point.

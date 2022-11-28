@@ -1,0 +1,76 @@
+Introduction to Data Science
+Topic: The Uncertainty in Model Predictions
+
+Learning Outcomes: 
+Gain a respect for uncertainty: it can be hard to make accurate predictions
+
+-----------------------------------------------------------------------------
+
+In this assignment, you will read this article and respond to a series of questions.
+Why Zillow Couldn’t Make Algorithmic House Pricing Work
+
+https://www.wired.co.uk/article/zillow-ibuyer-real-estate
+
+This quote from the CEO sums things up:
+We've determined the unpredictability in forecasting home prices far exceeds what we anticipated and continuing to scale Zillow Offers, the company’s home buying program, would result in too much earnings and balance-sheet volatility,” Zillow cofounder and CEO Rich Barton
+
+-----------------------------------------------------------------------------
+
+Zillow's Zestimate of home values has become a go-to reference for US homeowners. But when Zillow tried to use its algorithm to buy and sell homes, it badly misread the market. The company’s iBuyer (or “instant buyer”) arm, where tech-first firms use algorithms to quickly value, buy, and sell homes, launched in 2018 in Phoenix. It joined a bustling market in the Arizona city: Opendoor, Redfin, and Offerpad have been buying and flipping homes there since around 2014.
+
+The principle behind iBuying is simple: Leveraging the power of big data, tech firms estimate the price at which they think they can sell a property, which then informs their offers to buy. They tend to offer lower prices than traditional buyers, but attract sellers by promising faster, all-cash deals.
+
+Once an iBuyer owns a home, it works quickly to renovate the property and relist it—in theory for a profit. An analysis of millions of home sales across the US between 2013 and 2018 by academics at Stanford, Northwestern, and Columbia Business School found that iBuyers made around 5 percent profit by flipping homes.
+
+Zillow believed it had the secret to the iBuying world: the Zestimate. Launched in 2006, the highly touted algorithm had been trained on millions of home valuations across the US before it was put to work estimating the possible price of property Zillow itself bought. In theory, it was a natural confluence of two things: Zillow’s expertise in pricing homes, and a new method of buying properties that relied on accurate estimates.
+
+For three years it worked, according to John Wake, who has been a realtor and real estate analyst around Phoenix since 2003. In that time, he’s seen the market collapse several times, including during the 2008–09 financial crisis, set off by the problems with subprime loans. But he’s never seen anything like the past 18 months.
+
+“I don’t know anybody in the spring of 2020 who predicted the market would do what it did,” he says. “No one foresaw it would take off and become so strong.” In March 2020, pretty much all activity in Phoenix’s housing market stopped as the world shut down and economic uncertainty reigned. By October 2021, sales had dramatically accelerated, including among iBuyers.
+
+Tech firms chose the Phoenix area because of its preponderance of cookie-cutter homes. Unlike Boston or New York, the identikit streets make pricing properties easier. iBuyers’ market share in Phoenix grew from around 1 percent in 2015—when tech companies first entered the market—to 6 percent in 2018, says Tomasz Piskorski of Columbia Business School, who is also a member of the National Bureau of Economic Research. Piskorski believes iBuyers—Zillow included—have grown their share since, but are still involved in less than 10 percent of all transactions in the city.
+
+People in real estate feared the arrival of the iBuyers, says Wake. In early October 2021, Zillow recorded its most active week buying homes in Phoenix, part of its goal to buy 5,000 a month by 2024. Then suddenly it stopped buying. Wake had one question: “What the hell happened?”
+
+It became clear a month later. “We've determined the unpredictability in forecasting home prices far exceeds what we anticipated and continuing to scale Zillow Offers, the company’s home buying program, would result in too much earnings and balance-sheet volatility,” Zillow cofounder and CEO Rich Barton said when announcing the company’s third-quarter results earlier this month. The company shuttered its iBuying arm and said it would cut 25 percent of its workforce.
+
+Barton told analysts that the premise of Zillow’s iBuying business was being able to forecast the price of homes accurately three to six months in advance. That reflected the time to fix and sell homes Zillow had bought.
+
+But the forecasts proved inaccurate in 2021’s gyrating housing market. In the second quarter, Barton said, Zillow actually was able to sell homes for 5.8 percent more than it expected. In the third quarter, though, Zillow sold homes for 5 to 7 percent less than it forecast.
+
+Other iBuyers were shaken by changes in the housing market brought about by the pandemic. Zillow’s competitors slowed buying in October, but Zillow kept going apace according to data compiled by real estate analyst Mike DelPrete. Zillow was also buying homes at a higher price than the market average: $65,000 more in September.
+
+In Phoenix, the problem was particularly acute. Nine in 10 homes Zillow bought were put up for sale at a lower price than the company originally bought them, according to an October 2021 analysis by Insider. If each of those homes sold for Zillow’s asking price, the company would lose $6.3 million. “Put simply, our observed error rate has been far more volatile than we ever expected possible,” Barton admitted. “And makes us look far more like a leveraged housing trader than the market maker we set out to be.”
+
+Zillow says its algorithm, which updates the estimated value of more than 100 million properties by analyzing dozens of variables, including the size and location of a home, isn’t at fault. “We remain confident in the ability of our Zestimate,” a spokesperson says, citing the system’s median error rate for on-market homes of 1.9 percent, and 6.9 percent for off-market homes.
+
+To make the iBuying program profitable, however, Zillow believed its estimates had to be more precise, within just a few thousand dollars. Throw in the changes brought in by the pandemic, and the iBuying program was losing money. One such factor: In Phoenix and elsewhere, a shortage of contractors made it hard for Zillow to flip its homes as quickly as it hoped.
+
+Not everyone believes “black swan” events like the coronavirus pandemic and its impact on the economy were the sole issue. Piskorski acknowledges that inflation concerns, the changing demand for housing, and the chances of the Federal Reserve increasing interest rates all had an effect.
+
+Piskorski says Zillow, in its attempt to chase market share quickly, may have reached beyond the bounds of its algorithm’s ability. “There was no problem with the algorithm as long as they stay within the boundaries of the business model and buy cookie-cutter homes that are easier to sell,” he explains. “There are a lot of things that affect the valuation of homes that even very sophisticated algorithms cannot catch.”
+
+Having picked off the low-hanging fruit, Zillow chose to take more chances on lower-quality or more complex homes just as the pandemic added more noise to the data. “It’s just harder to predict because there’s a lot of uncertainties in the housing market right now,” Piskorski says.
+
+One realtor, who is an outspoken critic of Zillow, believes failure was inevitable. “Phoenix looks like a test of how much market share they can acquire, control and decide what to do with,” says Sean Gotcher, a Nevada-based realtor who recently posted a viral TikTok alleging that Zillow manipulates the housing market. (Zillow denied the allegations when they were initially made, saying it pays market value for every home it buys.) “Some may call it manipulation. They said they were ‘unable to accurately predict future home prices.’ My question is: Who can? Only someone in control of the supply can predict the price, and they seem to have made an attempt at gaining control of the supply.”
+
+For Phoenix’s homeowners, there’s one less iBuyer to snap up homes—good news for the likes of Wake. But residents there and elsewhere shouldn’t expect others to shut up shop any time soon. Zillow’s own survey of the market shows that iBuyers bought 19 homes every day in Phoenix alone in the second quarter of 2021, around one in every 20 bought there, and 165 a day across the United States—one in every 100. Where Zillow is withdrawing, Redfin, Opendoor, and Offerpad are stepping in and stepping up. “In principle, it’s a viable business model, but its viability changes with market positions,” says Piskorski. The gold rush has only just begun.
+
+-----------------------------------------------------------------------------
+
+Q1: Tech firms chose the Phoenix area for heavy buying. Explain why they did this.
+
+
+Q2: What was the event or events that caused the collapse of Zillow's strategy?
+
+
+Q3: Suppose Zillow updated their models with recent data. Do you feel confident that they could avoid a repeat collapse? Explain your answer.
+
+
+Q4: Given what happened to Zillow, is it fair to say that data science doesn't work? Explain your answer.
+
+
+Q5: Explain the difference between an on-market home and an off-market home.
+
+
+Q6: What could Zillow have done to lower their risk and reduce their losses?
