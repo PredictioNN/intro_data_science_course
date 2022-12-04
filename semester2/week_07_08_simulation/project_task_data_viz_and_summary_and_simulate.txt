@@ -1,0 +1,44 @@
+Introduction to Data Science 
+Team Project Task: 
+1) Data Visualization and Summarization
+2) Simulation
+
+Directions: 
+
+In this project task, you will do three things: 
+
+1) Visualize your data
+
+a. Create two or more plots that are useful in better understanding the data
+   Make sure they 
+   - are the best plot for the job
+   - are clear
+   - include labels and title
+   - exclude extraneous information
+
+b. Explain your observations from the plots
+   - if there are possible sources of bias, provide an explanation
+
+2) Compute statistics to summarize your data
+
+Depending on the data, it could make sense to compute counts or means, for example.
+
+Show the summary statistics and explain:
+1. What you decided to summarize
+2. How you summarized it
+3. What are the statistics telling you
+4. Are there any sources of bias in your statistics?
+
+3) Simulate based on your data
+
+a. Select one variable from your dataset
+b. Assume a distribution for this variable, such as the normal distribution. You can use the variable's mean and standard deviation as the parameters where necessary.
+c. Draw samples from the distribution and create a histogram
+d. Create a histogram of the actual data
+e. Briefly discuss your findings from c-d
+
+Submission Instructions:
+At the top of your report, include the Team Project Task (see above), and the names of each team member.  
+File format can be one of: word doc, pdf, text file or Jupyter notebook (ipynb).
+
+Completing this assignment is worth 1 point.

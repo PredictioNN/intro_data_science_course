@@ -1,0 +1,38 @@
+Introduction to Data Science
+Topic: Data uses and abuses
+
+Learning Outcomes: 
+Understand how a massive dataset was built, harvested, and exploited
+
+-----------------------------------------------------------------------------
+
+In this assignment, you will read this article and respond to a series of questions.
+
+Revealed: 50 million Facebook profiles harvested for Cambridge Analytica in major data breach
+
+Source:
+https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election
+
+GRADING: Fill in your answers and submit for 10 points. If it is not submitted, it will not be graded.
+
+-----------------------------------------------------------------------------
+QUESTIONS
+
+Q1: Facebook was fined as a result of the Cambridge Analytica scandal. Do you think they were responsible for what happened?
+Why or why not?
+
+Q2: Who owned and funded Cambridge Analytica? 
+
+Q3: After the Facebook user data was harvested, what happened next?
+
+Q4: When Facebook found out about the data breach, did they immediately alert users?
+
+Q5: How many users were impacted by the data breach?
+
+Q6: What kinds of user information do you think might be useful in influencing an election outcome?
+
+Q7: After reading this article, how does it make you feel about the privacy of your data on the internet?
+
+Q8: What did you find most interesting about this story?
+
+
