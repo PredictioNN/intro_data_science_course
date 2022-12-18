@@ -1,0 +1,23 @@
+Introduction to Data Science 
+Team Project Task: Working with a Database and SQL
+
+Directions: 
+
+It is often beneficial to store structured data from a large project into a relational database.
+
+In this assignment, you will select part or all of your project dataset and migrate it to a SQLite database. You can use the lecture notes and Google to help.
+
+Hint: You DON'T want to manually create the records to populate the database.  
+You might first read the data into Python using pandas and use code for the task.
+
+After the data is migrated, you will do these things, showing all code and results:
+
+1. Write SQL to count how many records are in one of the tables. Show the table name.  
+2. Write SQL to select the first 5 records in this table.  
+3. Write SQL to filter the table on a condition and show the first 5 records.  
+
+Submission Instructions:
+At the top of your report, include the Team Project Task (see above), and the names of each team member.  
+File format can be one of: word doc, pdf, text file or Jupyter notebook (ipynb).
+
+Completing this assignment is worth 1 point.
