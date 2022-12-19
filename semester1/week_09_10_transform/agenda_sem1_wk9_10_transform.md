@@ -27,4 +27,5 @@
 
 For the second meeting in the week, students can work on their team projects, applying what they learned.
 
-
+There are more illustrations of data transformations in the notebook: additional_data_transform_examples.ipynb  
+This is not required but might be helpful.
