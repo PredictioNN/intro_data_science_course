@@ -1,0 +1,25 @@
+Introduction to Data Science 
+Team Project Task: Working with Dash to Build a Dashboard
+
+Directions: 
+
+For communicating with data and telling a story, dashboards are powerful. Interactive dashboards provide choice in how the user can see the data.
+
+In this assignment, you will populate a Dash app with your project data to build a dashboard. You can use the lecture notes, the Dash documentation, and Google to help.
+
+You can make you Dash app as fancy as you like! Just be sure to make it useful and easy to interpret.
+
+One cool feature we didn't cover: it is possible to create a dashboard with multiple tabs, for different pages of interactive content.
+
+Submission Instructions:
+At the top of your report, include the Team Project Task (see above), and the names of each team member.  
+
+The report should include:
+
+- the code behind the app
+- one or more screenshots of the dashboard
+- a short description of what the controls do (e.g., the dropdown allows the user to select different variables for the axes)
+
+File format can be one of: word doc, pdf, or text file
+
+Completing this assignment is worth 1 point.

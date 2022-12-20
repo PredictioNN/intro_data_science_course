@@ -1,0 +1,52 @@
+Introduction to Data Science 
+Team Project Task: Deliverables
+
+Directions: 
+
+In this project task, you will have the following project deliverables:
+
+1) Submit all code. This can be in one or more Jupyter notebooks or Python scripts (files ending in .py).  
+   File names should include: team number, task name.
+   Example - For the case of several notebooks, one might be called: team1_data_cleaning.ipynb
+   Make sure the files are clear, organized, and commented.
+
+2) Team presentation. 
+   Each member of the team must present slides.
+   There is no slide requirement, but be sure to cover all important information.
+   Slides should not make people read a lot. They should include a few lines of text and/or figures & images.
+   If a slide is complex, split it into two simple slides.
+   Be sure to practice beforehand to make sure delivery is clear and engaging.
+   The slides should be in powerpoint or pdf. They should be visually appealing.
+   The first slide should include: names of all team members, project title, date.
+
+   Dashboard: Not required, but you might include a demo of your project dashboard in the presentation.
+
+--------------------------------------------------------------------------------------------------------------
+TOTAL PROJECT POINTS: 25
+COVERAGE: CODE, PRESENTATION AND TASKS DURING TERM
+COUNTS FOR 40% OF GRADE
+
+RUBRIC - CODE                     | TOTAL: 14 PT
+Code is documented and clear      | 2 PT
+Code includes data preparation    | 2 PT
+Code includes data transformation | 2 PT
+Code includes at least 3 plots    | 2 PT
+Code includes summary stats       | 2 PT
+Code includes two or more models  | 2 PT
+Code includes metrics             | 2 PT
+7 items
+
+RUBRIC - PRESENTATION               | TOTAL: 6 PT
+Presentation is clear and appealing | 2 PT
+Presentation is comprehensive       | 2 PT
+Presentation delivery is strong     | 2 PT
+
+RUBRIC - TASKS DURING TERM      | TOTAL: 5 PT
+submitted task: import          | 1 PT
+submitted task: clean           | 1 PT
+submitted task: transform       | 1 PT
+submitted task: viz and summary | 1 PT
+submitted task: modeling        | 1 PT
+
+
+
