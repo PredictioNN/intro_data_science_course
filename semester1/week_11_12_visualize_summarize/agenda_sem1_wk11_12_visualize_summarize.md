@@ -29,3 +29,10 @@
 - Review summarization notebook
 
 For the second meeting in the week, students can work on their team projects, applying what they learned.
+
+#### NOTE
+
+This is a supplemental exercise that uses a synthetic dataset to illustrate exploratory data analysis using check fraud data.
+The code to construct the data is included, and the data is already saved.
+
+check_deposit_eda.ipynb
