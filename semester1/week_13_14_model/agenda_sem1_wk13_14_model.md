@@ -23,3 +23,4 @@
 
 For the second meeting in the week, students can work on their team projects, applying what they learned.
 
+There is an optional notebook illustrating a simple linear regression fit. It is named illustration_scatterplot_w_line_of_fit.ipynb  You can review this with students, or they can review independently. Rerunning the cells will resample the data and produce slightly different fitting lines.
