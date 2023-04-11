@@ -1,5 +1,5 @@
 ### SEMESTER 2
-### WEEKS 7-8
+### WEEKS 9-10
 ### TOPIC: 
 - Simulation of random variables
 - Quantifying the probability of events using simulation
@@ -13,7 +13,8 @@
 - Understand why setting a seed is useful
 
 #### DELIVERABLES
-- Students complete IDS_hw4
+- Students complete IDS_hw5
+- Students submit journal after week 9
 
 #### AGENDA
 

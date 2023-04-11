@@ -1,5 +1,5 @@
 ### SEMESTER 2
-### WEEKS 9-11
+### WEEKS 11-13
 ### TOPIC: 
 - Relational Databases
 - SQL
@@ -13,9 +13,8 @@
 - Write basic SQL commands directly in SQLite
 
 #### DELIVERABLES
-- IDS_hw5_rel_db_battleship
-- Submit journal after week 9
-- Take quiz 1
+- IDS_hw6_rel_db_battleship
+- Submit journal after week 12
 - Submit project task
 
 

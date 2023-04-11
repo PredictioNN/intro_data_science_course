@@ -39,7 +39,7 @@ Data science is one of the most in-demand roles globally, and supply of data sci
   - data velocity
   - data representativeness, bias, and ethics  
 
-- **Learn and Apply the Stages of the Data Pipeline.  Implement Them in Team Projects.**  
+- **Learn and Apply the Stages of the Data Science Pipeline.  Implement Them in Team Projects.**  
 
   - discuss examples of societal problems that can be addressed with data science
 

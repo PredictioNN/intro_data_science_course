@@ -1,5 +1,5 @@
 ### SEMESTER 2
-### WEEKS 12-14
+### WEEKS 14-16
 ### TOPIC: 
 - Dashboards
 
@@ -9,8 +9,8 @@
 - Build an interactive dashboard using Dash
 
 #### DELIVERABLES
-- IDS_hw6_dashboards_with_dash2_components
-- Submit journal after week 12
+- IDS_hw7_dashboards_with_dash2_components
+- Submit journal after week 15
 - Submit project task
 
 #### AGENDA

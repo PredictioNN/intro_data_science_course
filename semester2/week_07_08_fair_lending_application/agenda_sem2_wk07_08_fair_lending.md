@@ -1,12 +1,12 @@
 ### SEMESTER 2
-### WEEKS 16-17
+### WEEKS 7-8
 ### TOPIC: 
    1) Fair Lending
    
 ---  
 
 #### DELIVERABLES
-- tbd
+- Students complete IDS_hw4
 
 #### AGENDA
 
