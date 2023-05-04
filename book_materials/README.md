@@ -5,7 +5,7 @@
 This course can use the following textbook:
 
 **Title:** From Concepts to Code: Introduction to Data Science  
-**Author:** Adam Tashman  
+**Author:** Adam P. Tashman  
 **Publisher:** Chapman and Hall  
 
 The book is estimated to be available Q4 2023.
