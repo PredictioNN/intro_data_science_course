@@ -10,6 +10,6 @@ This course can use the following textbook:
 
 The book is estimated to be available Q4 2023.
 
-Solutions to select exercises can be found here.
+Solutions to select exercises can be found in this folder.
 
-Additional supporting files will be maintained here.
+Additional supporting files will be maintained in this folder.
