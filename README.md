@@ -1,7 +1,7 @@
 <img src="./predictioNN_Logo_JPG(72).jpg" width=200>
 
 
-## Materials for Two-Semester Intro to Data Science Course at High School / Early Undergraduate Level
+## Materials for Two-Semester Intro to Data Science Course at High School Level
 
 ### This document serves as the course Syllabus
 
