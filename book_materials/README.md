@@ -7,7 +7,7 @@ The course works well with this textbook:
 #### **Title:** From Concepts to Code: Introduction to Data Science
 #### **Author:** Adam P. Tashman
 #### **Publisher:** Chapman and Hall
-#### **Publication Date:** The book should be available Q4 2023
+#### **Publication Date:** April 12, 2024
 
 ---
 
