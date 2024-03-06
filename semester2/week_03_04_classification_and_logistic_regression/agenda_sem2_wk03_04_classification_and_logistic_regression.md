@@ -26,13 +26,12 @@
 **CLASS 1:**  
 Review notebook: classification_and_sigmoid_function
 
-This notebook outlines how functions work, and gets students using them.  
-It gets into more math than earlier notebooks, building on their work with linear regression.
+The instructor may wish to motivate binary classification by first reviewing **Exercise 4: Basketball Free Throws**.  
+Students can see the data and start thinking about the problem.  
+Then the lesson can be reviewed, and students can return to the problem with ideas.
 
 **CLASS 2:**  
 Review notebook: logistic_regression_w_breast_cancer_data
-
-This notebook gives students hands-on practice doing logistic regression.
 
 **CLASS 3:**  
 Review notebook: logistic_regression_w_breast_cancer_data
