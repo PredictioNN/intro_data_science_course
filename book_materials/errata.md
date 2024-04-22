@@ -1,4 +1,4 @@
-## Errata for the book
+## Errata
 
 
 - Chapter 6: Data Processing. Question 1. Fix is in **bold**.  
