@@ -8,7 +8,7 @@
 ### PredictioNN
 
 PredictioNN provides data science resources for teachers, students, and practitioners.  
-Visit the [website](https://predictionnllc.godaddysites.com/) to learn more!
+Visit the [website](https://prediction-n.com/) to learn more!
 
 ### Course Description 
 
